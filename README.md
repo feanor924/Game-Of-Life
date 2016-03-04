@@ -1,2 +1,3 @@
 # GameOfLife
-CSE241-HW9
+
+Game of Life on Java
